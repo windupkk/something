@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+使用inky的交互式极乐迪斯科同人文
 ---
 
