@@ -105,7 +105,6 @@ h2 {
     padding: 20px;
     padding-top: 4em;
     background: white;
-    padding-bottom: 50px; /* 根据需要调整这个值 */
 }
 }
 
@@ -187,9 +186,12 @@ img {
 .choice {
     text-align: center;
     line-height: 1.3em;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
 }
 
+.choice:last-child {
+    margin-bottom: 80px; /* 最后一个选项的底部间距 */
+}
 /* 
   Class applied to first choice
 */
