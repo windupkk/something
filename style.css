@@ -186,11 +186,11 @@ img {
 .choice {
     text-align: center;
     line-height: 1.3em;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .choice:last-child {
-    margin-bottom: 80px; /* 最后一个选项的底部间距 */
+    margin-bottom: 5em; /* 最后一个选项的底部间距 */
 }
 /* 
   Class applied to first choice
