@@ -185,7 +185,7 @@ img {
 .choice {
     text-align: center;
     line-height: 0.8em;
-    margin-bottom: 30px;
+    margin-bottom: 0.5e;
 }
 
 /* 
@@ -199,7 +199,7 @@ img {
   Class applied to choice links
 */
 .choice a, .choice span {
-    font-size: 15pt;
+    font-size: 13pt;
 }
 
 /* 
