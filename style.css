@@ -116,12 +116,12 @@ h2 {
 p {
     font-size: 14pt;
     color: #000000;
-    line-height: 1.7em;
+    line-height: 1.5em;
     font-weight: normal;
 }
 
 a {
-    font-weight: 700;
+    font-weight: normal;
     color: #9b0b0b;
     font-family: sans-serif;
     text-decoration: none;
@@ -184,8 +184,8 @@ img {
 */
 .choice {
     text-align: center;
-    line-height: 0.8em;
-    margin-bottom: 0.5e;
+    line-height: 1.3em;
+    margin-bottom: 0;
 }
 
 /* 
