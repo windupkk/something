@@ -27,11 +27,11 @@ h1 {
 }
 
 h2 {
-    font-size: 14pt;
+    font-size: 18pt;
     font-style: italic;
     font-family: sans-serif;
-    font-weight: lighter;
-    color: #BBB;
+    font-weight: normal;
+    color: #000000;
 }
 
 .header {
@@ -114,15 +114,15 @@ h2 {
 }
 
 p {
-    font-size: 13pt;
-    color: #888;
+    font-size: 18pt;
+    color: #000000;
     line-height: 1.7em;
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 a {
     font-weight: 700;
-    color: #b97c2c;
+    color: #9b0b0b;
     font-family: sans-serif;
     text-decoration: none;
 }
@@ -185,6 +185,7 @@ img {
 .choice {
     text-align: center;
     line-height: 1.7em;
+    margin-bottom: 25px;
 }
 
 /* 
